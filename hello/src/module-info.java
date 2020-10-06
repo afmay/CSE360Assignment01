@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Redhi
+ *
+ */
+module hello {
+}
